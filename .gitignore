@@ -1,0 +1,12 @@
+# Secret config — never upload this
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# IDE
+.vscode/
+.idea/
